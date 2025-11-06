@@ -38,6 +38,14 @@ Testa att skapa en separat stylesheet med CSS-variabler och importera den i `sty
 
 ## 🎁 Bonusuppgifter
 
+- Justera stylingen och HTML-koden för att matcha denna layout:
+
+  <img src="css--panda2.png" height="600">
+
+- Justera stylingen och HTML-koden igen för att matcha denna layout:
+
+  <img src="css--panda3.png" height="600">
+
 - Lägg till ännu fler ändringar på `:hover` och andra states ni kan hitta
 - Lägg till flera kort
 - Experimentera med positioneringen med `flex-box`
